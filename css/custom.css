@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+body {
+	background-image: url(../img/BG.png);
+	background-position: top center;
+	background-size: cover;
+}
+
+.blogo {
+	margin: 13% 4% 4% 4%;
+}
+
+.bbanner {
+	margin: 8rem auto 5rem auto;
+}
+
+.wordsJumbo {
+	padding-left: 5px;
+}
+
+.jumbotron {
+	background-image: url(../img/jumbotronbg.jpg);
+}
+
+.img-thumbnail {
+	color: red;
+}
+
+.jborder {
+	margin: 3px;
+	border: 1px solid red;
+}
+
+.full-tab {
+	margin-bottom: 6rem;
+	margin-top: 2rem;
+}
+
+.tab-img {
+	margin-right: 2rem;
+}
+
+footer {
+	background-color: pink;
+	padding: 1px 10px;
+	color: black;
+	margin: 20px 0;
+}
